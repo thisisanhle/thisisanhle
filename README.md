@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anh Le, @thisisanhle
-- 👀 I’m interested in blockchain, data science, and women empowerment.
+- 👀 I’m interested in blockchain, and data science.
 - 🌱 I’m currently learning liquidity protocal.
 - 💞️ I’m looking to collaborate on blockchain projects.
 - 📫 How to reach me on Linkedin and Medium @ thisisanhle.
