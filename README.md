@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Anh Le, @thisisanhle
-- 👀 I’m interested in blockchain, and data science.
-- 🌱 I’m currently learning liquidity protocal.
-- 💞️ I’m looking to collaborate on blockchain projects.
-- 📫 How to reach me on Linkedin and Medium @ thisisanhle.
+- 👋 Hi, I’m Anh
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning about financial markets.
+- 💞️ I like hiking on weekends.
+- 📫 I write articles on Medium @ thisisanhle.
 
 <!---
 thisisanhle/thisisanhle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
